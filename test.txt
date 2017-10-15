@@ -2,6 +2,7 @@
 
 int main()
 {
+	printf("Hello Shiny Jerald!");
 
 	return 1;
 }
