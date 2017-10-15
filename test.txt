@@ -6,5 +6,9 @@ int main()
 
 	printf("Adding a new line");
 
+	printf("Staging Changes");
+
+	printf("Working Copy");
+
 	return 1;
 }
