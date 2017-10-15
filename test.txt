@@ -4,5 +4,7 @@ int main()
 {
 	printf("Hello Shiny Jerald!");
 
+	printf("Adding a new line");
+
 	return 1;
 }
