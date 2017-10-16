@@ -5,12 +5,12 @@ int main()
 	printf("Hello Shiny Jerald!");
 
 	printf("Adding a new line");
-
+        
 	printf("Staging Changes");
 
 	printf("Working Copy");
 
 	printf("Changing for alex branch");
 
-	return 1;
+	return 1+1;
 }
